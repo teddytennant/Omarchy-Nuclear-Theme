@@ -3,7 +3,7 @@
 This is the Mars Theme for [Omarchy.org](https://omarchy.org).
 
 <p align="center">
-  <img src="theme.png" alt="Mars Theme Preview">
+  <img src="russia.wepb" alt="Russia Theme preview">
 </p>
 
 ## Installation
@@ -11,7 +11,7 @@ This is the Mars Theme for [Omarchy.org](https://omarchy.org).
 To install this theme, simply use the `omarchy-theme-install` command:
 
 ```bash
-omarchy-theme-install https://github.com/steve-lohmeyer/omarchy-mars-theme
+omarchy-theme-install https://github.com/teddytennant/Omarchy-Nuclear-Theme
 ```
 
 ## Included Configurations
@@ -29,4 +29,4 @@ This theme includes configurations for:
 - Several Desktop Backgrounds **some images courtesy of SpaceX
 
 ## Neovim theme
-[https://github.com/steve-lohmeyer/mars.nvim](https://github.com/steve-lohmeyer/mars.nvim)
+[https://github.com/teddytennant/Omarchy-Nuclear-Theme](https://github.com/teddytennant/Omarchy-Nuclear-Theme)
