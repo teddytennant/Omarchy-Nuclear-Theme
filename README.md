@@ -1,6 +1,6 @@
-# Omarchy Mars Theme
+# Omarchy Nuclear Theme
 
-This is the Mars Theme for [Omarchy.org](https://omarchy.org).
+This is the Nuclear Theme for [Omarchy.org](https://omarchy.org).
 
 <p align="center">
   <img src="russia.wepb" alt="Russia Theme preview">
