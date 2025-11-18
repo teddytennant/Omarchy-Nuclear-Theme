@@ -3,7 +3,7 @@
 This is the Nuclear Theme for [Omarchy.org](https://omarchy.org).
 
 <p align="center">
-  <img src="russia.wepb" alt="Russia Theme preview">
+  <img src="russia.webp" alt="Russia Theme preview">
 </p>
 
 ## Installation
