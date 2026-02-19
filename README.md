@@ -28,5 +28,6 @@ This theme includes configurations for:
 - SwayOSD (swayosd.css)
 - Several Desktop Backgrounds **some images courtesy of SpaceX
 
-## Neovim theme
-[https://github.com/teddytennant/Omarchy-Nuclear-Theme](https://github.com/teddytennant/Omarchy-Nuclear-Theme)
+## Neovim Theme
+
+The Neovim colorscheme is included as `neovim.lua` and is automatically applied during theme installation.
